@@ -7,6 +7,7 @@
 - useRef hook
   -firebase setup
   -form validation
+  -ReactStrap
   -deploying our app to products
   -create signup user account
   -implements sign userapi
