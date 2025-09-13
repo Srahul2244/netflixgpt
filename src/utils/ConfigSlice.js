@@ -1,5 +1,5 @@
 import { createSlice } from "@reduxjs/toolkit";
-
+//this is redux toolkit 
 const configSlice = createSlice({
   name: "config",
   initialState: {
